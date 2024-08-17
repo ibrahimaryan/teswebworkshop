@@ -1,0 +1,114 @@
+/* Style for the container */
+.container-form {
+    max-width: 100%;
+    padding: 0 15px;
+    margin: auto;
+}
+
+/* Style for the form container */
+.gform {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for the form header */
+.gform h2 {
+    color: #007bff;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/* Style for form labels */
+.gform .form-label {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style for form input fields */
+.gform .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+/* Style for form buttons */
+.gform .btn,
+.gform .btn:focus {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #007bff;
+}
+
+.gform .btn:hover,
+.gform .btn:focus:hover {
+    background-color: #0056b3;
+}
+
+.table-responsive {
+    overflow-x: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/* Style for alerts */
+.alert-warning {
+    margin-top: 120px;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+/* Media query for responsiveness */
+@media only screen and (min-width: 768px) {
+    .container-form {
+        max-width: 600px;
+    }
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.pagination button:hover {
+    background-color: #0056b3;
+}
+
+.pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
