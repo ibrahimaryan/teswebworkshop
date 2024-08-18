@@ -35,7 +35,7 @@ Team Software
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/dept/software/elang.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/dept/software/elang-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -54,7 +54,7 @@ Team Software
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/dept/software/haydar.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/dept/software/haydar-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -73,7 +73,7 @@ Team Software
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/dept/software/gilang.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/dept/software/gilang-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -93,7 +93,7 @@ Team Software
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/dept/software/seno.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/dept/software/seno-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -112,7 +112,7 @@ Team Software
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/dept/software/dena.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/dept/software/dena-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}

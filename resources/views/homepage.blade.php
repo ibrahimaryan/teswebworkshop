@@ -111,21 +111,21 @@ UKM PCC
             <p>Workshop</p>
         </header>
         <div class="row gy-4">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/workshop/eci.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/workshop/ibrahim-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href="#blank"><i class="bi bi-twitter"></i></a>
                             <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.instagram.com/ibrahimaryan_/" target="_blank"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/ibrahim-aryan-faridzi/" target="_blank"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
-                        <h4>Nabila Khairunnisa Dian Pranata</h4>
-                        <span>Staff Divisi Workshop</span>
-                        <p>Bertanggung jawab atas hardskill anggota UKM PCC dan membuat serta mengkoordinasi pelatihan-pelatihan yang ada didalamnya.</p>
+                        <h4>Ibrahim Aryan Faridzi</h4>
+                        <span>Wakil Kepala Divisi Workshop</span>
+                        <p>Bertanggung jawab atas hardskill anggota UKM PCC dan membuat serta mengkoordinasi pelatihan-pelatihan yang ada didalamnya..</p>
                     </div>
                 </div>
             </div>
@@ -133,12 +133,12 @@ UKM PCC
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/workshop/aufa.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/workshop/aufa-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href="#blank"><i class="bi bi-twitter"></i></a>
                             <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.instagram.com/afhmdh_/" target="_blank"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/aufaahamiidah/" target="_blank"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
@@ -152,12 +152,12 @@ UKM PCC
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/workshop/dimas.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/workshop/dimas-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href="#blank"><i class="bi bi-twitter"></i></a>
                             <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.instagram.com/dimas_gambas/" target="_blank"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/dimas-irsyad-b551361a4/" target="_blank"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
@@ -172,16 +172,16 @@ UKM PCC
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/workshop/hanif.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/workshop/nabila-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href="#blank"><i class="bi bi-twitter"></i></a>
                             <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.instagram.com/nabbilabill/" target="_blank"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/nabilakdp/" target="_blank"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
-                        <h4>Hanif Abdusy Syakur</h4>
+                        <h4>Nabila Khairunnisa Dian Pranata</h4>
                         <span>Staff Divisi Workshop</span>
                         <p>Bertanggung jawab atas hardskill anggota UKM PCC dan membuat serta mengkoordinasi pelatihan-pelatihan yang ada didalamnya.</p>
                     </div>
@@ -191,17 +191,17 @@ UKM PCC
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/workshop/ibrahim.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/workshop/hanif-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href="#blank"><i class="bi bi-twitter"></i></a>
                             <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.instagram.com/hanif_abdusy/" target="_blank"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/hanif-abdusy/" target="_blank"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
-                        <h4>Ibrahim Aryan Faridzi</h4>
-                        <span>Wakil Kepala Divisi Workshop</span>
+                        <h4>Hanif Abdusy Syakur</h4>
+                        <span>Staff Divisi Workshop</span>
                         <p>Bertanggung jawab atas hardskill anggota UKM PCC dan membuat serta mengkoordinasi pelatihan-pelatihan yang ada didalamnya..</p>
                     </div>
                 </div>
@@ -210,11 +210,11 @@ UKM PCC
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="600">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('images/workshop/sabrina.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('images/workshop/sabrina-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href="#blank"><i class="bi bi-twitter"></i></a>
                             <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
-                            <a href=""><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.instagram.com/sabriinashh/" target="_blank"><i class="bi bi-instagram"></i></a>
                             <a href=""><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
@@ -346,7 +346,7 @@ UKM PCC
             <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
                 <div class="box">
                     <h3 style="color: #4154f1;">Multimedia</h3>
-                    <img src="{{asset('images/mulmed.JPG')}}" class="img-fluid" alt="">
+                    <img src="{{asset('images/mulmed-Photoroom.png')}}" class="img-fluid" alt="">
                     <ul>
                         <li>Departemen Multimedia adalah salah satu departemen di UKM PCC yang berfokus pada desain dan
                             editing video serta memiliki tanggung jawab menggembangkan skill anggota dan mengadakan
@@ -359,7 +359,7 @@ UKM PCC
             <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
                 <div class="box">
                     <h3 style="color: #4154f1;">Network</h3>
-                    <img src="{{asset('images/network.JPG')}}" class="img-fluid" alt="">
+                    <img src="{{asset('images/network-Photoroom.png')}}" class="img-fluid" alt="">
                     <ul>
                         <li>Departemen Network adalah salah satu departemen di UKM PCC yang bertanggung jawab terhadap
                             pelatihan yang berkaitan dengan Network serta menghasilkan produk dan portofolio yang
@@ -372,7 +372,7 @@ UKM PCC
             <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                 <div class="box">
                     <h3 style="color: #4154f1;">Software</h3>
-                    <img src="{{asset('images/software.JPG')}}" class="img-fluid" alt="">
+                    <img src="{{asset('images/software-Photoroom.png')}}" class="img-fluid" alt="">
                     <ul>
                         <li>Departemen Software adalah salah satu departemen di UKM PCC yang bertanggung jawab terhadap
                             pelatihan yang berkaitan dengan Software serta menghasilkan produk dan portofolio yang
@@ -446,7 +446,7 @@ UKM PCC
                         </h2>
                         <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
                             <div class="accordion-body">
-                                PCC Class diadakan pada tanggal 9 Maret 2024.
+                                PCC Class diadakan pada tanggal 8 Maret 2025.
                             </div>
                         </div>
                     </div>

@@ -33,7 +33,7 @@ Team Multimedia
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('/images/dept/mulmed/ratna.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('/images/dept/mulmed/ratna-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -53,7 +53,7 @@ Team Multimedia
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('/images/dept/mulmed/khilda.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('/images/dept/mulmed/khilda-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -73,7 +73,7 @@ Team Multimedia
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('/images/dept/mulmed/risqi.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('/images/dept/mulmed/risqi-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -96,7 +96,7 @@ Team Multimedia
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('/images/dept/mulmed/arya.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('/images/dept/mulmed/arya-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
@@ -116,7 +116,7 @@ Team Multimedia
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
                 <div class="member">
                     <div class="member-img">
-                        <img src="{{asset('/images/dept/mulmed/agung.JPG')}}" class="img-fluid" alt="">
+                        <img src="{{asset('/images/dept/mulmed/agung-Photoroom.png')}}" class="img-fluid" alt="">
                         <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
